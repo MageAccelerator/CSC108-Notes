@@ -7,11 +7,14 @@
 
 # 1. Basic Language 
 
+1.1 Outputs
+
 1.1.1 System Out Print
 
 print ("hello world")
-	\nthe first statement in python is at global level. 
-	\nunlike java which always start with main ().
+
+The first statement in python is at global level. 
+	unlike java which always start with main ().
 
 1.1.2 backslash to continue in next line
 amount = (noTaxValue * 0.13) \ 
