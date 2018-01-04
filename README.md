@@ -9,12 +9,14 @@
 
 # 1.1 Hello World!
 
+
 1.1.1. System Out Print
 
 	print ("hello world")
 
 The first statement in python is at global level. 
 	unlike java which always start with main ().
+
 
 1.1.2. Backslash to Continue in Next Line
 
@@ -23,6 +25,7 @@ The first statement in python is at global level.
 			
 python uses backslash at the end of one line and continues onto the next line.
 
+
 1.1.3. Variables 
 
 	message = "Hello world!"
@@ -30,6 +33,7 @@ python uses backslash at the end of one line and continues onto the next line.
 	
 In python, we store values in variables. 
 As the example shown above, a value "Hello world!" has been stored in a variable named 'message'.
+
 
 1.1.4. Strings
 
