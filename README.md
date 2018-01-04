@@ -1,4 +1,10 @@
 
+# Notes
+
+# Index
+
+1. Basic Language
+
 # 1. Basic Language 
 
 1.1.1 System Out Print
