@@ -1,8 +1,7 @@
-# Note-Python
 
-1. Basic Language 
+# 1. Basic Language 
 
-1.1.1 hello world in python
+1.1.1 System Out Print
 
 print ("hello world")
 	the first statement in python is at global level. 
