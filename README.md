@@ -59,6 +59,16 @@ Some methods are used to change the case of a string:
    
 1.1.4.1 Combine Strings
 
+when we combine two strings in a variable and print it:
 
+	message_1 = "Hello"
+	message_2 = "world!"
+	full_message = message_1 + " " + message_2
+	
+	print(full_message)
+	
+  we will get:
+  
+  	Hello world!
+	
 
-1.1.4.1 Combine Strings
